@@ -8,7 +8,6 @@ import org.springframework.boot.autoconfigure.security.servlet.SecurityAutoConfi
 public class BackendApplication {
 
 	public static void main(String[] args) {
-		/* comment added */
 		SpringApplication.run(BackendApplication.class, args);
 	}
 }
